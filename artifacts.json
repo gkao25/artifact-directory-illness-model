@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/gkao25/artifact-directory-illness-model.git",
+    "project-repository": "https://github.com/gkao25/dsc180b-illness-score.git",
+    "project-website-url": "https://gkao25.github.io/dsc180b-illness-score/",
+    "project-website-code": "https://github.com/gkao25/dsc180b-illness-score.git"
 }
