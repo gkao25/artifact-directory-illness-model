@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+ILLNESS, An Alternative Way To Assess Wildfire Risk
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Currently, SDG&E employs Public Safety Power Shutoffs (PSPS) as a preventive measure to mitigate wildfire risks. The decision to activate a PSPS is primarily based on windspeed thresholds, which can sometimes be overly simplistic, resulting in unnecessary power disruptions. Given the complexity of wildfire risks, which are influenced by a range of environmental and social factors, there is a need for a more comprehensive, data-driven approach to PSPS decision-making. 
+Our project introduces the ILLNESS Score — Insight on Life, Living, Nature, Energy, Service, and Season — a multi-factor machine learning model designed to enhance the accuracy of PSPS decisions. By integrating environmental, infrastructure, and community factors, this approach provides a more holistic and data-driven risk assessment, reducing unnecessary power shutoffs while maintaining fire prevention effectiveness. 
